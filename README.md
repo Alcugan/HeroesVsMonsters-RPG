@@ -37,7 +37,7 @@ The game offers multiple modes, hero classes, monster types, weapons, effects, a
 ## Installation & Running
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/MonstersVsHeroes-RPG.git
+git clone https://github.com/Alcugan/HeroesVsMonsters-RPG.git
 ```
 2. Navigate into the project folder
 ```bash
