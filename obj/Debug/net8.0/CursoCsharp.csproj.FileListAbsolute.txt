@@ -1,0 +1,14 @@
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.exe
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.deps.json
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.runtimeconfig.json
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.dll
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.pdb
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.AssemblyInfoInputs.cache
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.AssemblyInfo.cs
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.dll
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\refint\CursoCsharp.dll
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.pdb
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.genruntimeconfig.cache
+C:\Users\alvaro.radu\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net8.0\ref\CursoCsharp.dll
