@@ -38,3 +38,21 @@ The game offers multiple modes, hero classes, monster types, weapons, effects, a
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR-USERNAME/MonstersVsHeroes-RPG.git
+```
+2. Navigate into the project folder
+```bash
+cd HeroesVsMonsters-RPG
+```
+3. Check the .NET version:
+Make sure you have the 9th .NET SDK version installed. If not, got to the website and downlode it:
+```bash
+dotnet --version
+```
+4. Run the game
+
+Start the game in the console:
+```bash
+dotnet run
+```
+
+You should see the console prompts and be able to play the game.
